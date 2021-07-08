@@ -70,4 +70,4 @@ JUnit5: Every Java class has at least one unit test.
 
 ## Questions
 If you have additional questions, you can reach me via my GitHub profile: [)<br/>
-or send me an email at: piotr72@gmail.com
+or send me an email at: ronsardmalonda@gmail.com

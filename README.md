@@ -69,5 +69,5 @@ If you would like to work on this project with me, reach out using the contact i
 JUnit5: Every Java class has at least one unit test.
 
 ## Questions
-If you have additional questions, you can reach me via my GitHub profile: [peterdudek](https://github.com/peterdudek)<br/>
+If you have additional questions, you can reach me via my GitHub profile: [)<br/>
 or send me an email at: piotr72@gmail.com
